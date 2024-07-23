@@ -4,7 +4,7 @@
 
 **Key Features and Design Philosophy:**
 
-1. **Performance and Efficiency:** Bimble aims to harness the performance benefits of Rust, known for its speed and memory safety, making it suitable for a wide range of applications, from systems programming to web development.
+1. **Performance and Efficiency:** Bimble aims to harness the performance benefits of Rust, known for its speed and memory safety.
 2. **Simplicity and Readability:** Drawing inspiration from Python, Bimble prioritizes readability and ease of use. It adopts a clean and intuitive syntax that minimizes boilerplate code and facilitates rapid development.
 3. **Cross-Platform Compatibility:** Like Java's WORA principle, Bimble code is compiled into an executable format (.bxe file) using the Bimble Generator (BG). The Bimble Virtual Machine (BVM) then interprets and executes this file, ensuring compatibility across different operating systems and architectures.
 4. **BVM Execution Model:** The BVM processes the .bxe file, initializes necessary data structures, and starts execution from the designated `main` function. This approach abstracts away platform-specific details, providing a consistent runtime environment for Bimble programs.
