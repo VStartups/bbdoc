@@ -21,7 +21,7 @@ layout:
 
 {% embed url="https://github.com/vstartups" %}
 
-The BB Lang OR The Bimble Programming Language is a modern easy to you Generated Procedural Programming Language......
+_**Welcome to Bimble, a cutting-edge programming language that stands at the intersection of performance, reliability, and simplicity. Designed for developers who demand both speed and clarity, Bimble offers a modern approach to programming that combines powerful features with a minimalistic syntax. Whether you're an experienced developer or just starting out, Bimble is crafted to meet your needs with elegance and efficiency.**_
 
 
 
